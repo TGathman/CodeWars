@@ -3,7 +3,7 @@ of two arguments.
 
 A few cases:
 
-```
+```python
 (-12, 2, -6)  ->  true
 (-12, 2, -5)  ->  false
 

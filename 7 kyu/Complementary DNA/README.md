@@ -9,7 +9,7 @@ there is no DNA at all (again, except for Haskell).
 
 More similar exercise are found here http://rosalind.info/problems/list-view/ (source)
 
-```
+```python
 DNA_strand ("ATTGC") # return "TAACG"
 
 DNA_strand ("GTAT") # return "CATA"

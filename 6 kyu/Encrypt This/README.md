@@ -15,7 +15,7 @@ You want to create secret messages which can be deciphered by the Decipher this!
 3. Keepin' it simple: There are no special characters in input.
 
 ### Examples:
-```
+```python
 encrypt_this("Hello") == "72olle"
 encrypt_this("good") == "103doo"
 encrypt_this("hello world") == "104olle 119drlo"

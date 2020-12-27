@@ -18,7 +18,7 @@ melons so that each of them gets an even amount.
 
 ### Examples
 
-```
+```python
 divide(2) == false # 2 = 1 + 1
 divide(3) == false # 3 = 1 + 2
 divide(4) == true  # 4 = 2 + 2

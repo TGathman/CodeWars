@@ -11,7 +11,7 @@ Notes:
 
 ### Examples
 
-```
+```python
 "This is a test sentence."  ==>  "1a1c4e1h2i2n4s4t"
 ""                          ==>  ""
 "555"                       ==>  ""

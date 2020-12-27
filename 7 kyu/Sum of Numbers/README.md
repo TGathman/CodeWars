@@ -5,7 +5,7 @@ Note: `a` and `b` are not ordered!
 
 ### Examples
 
-```
+```python
 get_sum(1, 0) == 1   // 1 + 0 = 1
 get_sum(1, 2) == 3   // 1 + 2 = 3
 get_sum(0, 1) == 1   // 0 + 1 = 1

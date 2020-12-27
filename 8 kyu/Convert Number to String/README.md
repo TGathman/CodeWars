@@ -4,7 +4,7 @@ What ways of achieving this do you know?
 
 ### Examples:
 
-```
+```python
 number_to_string(123) /* returns '123' */
 number_to_string(999) /* returns '999' */
 ```

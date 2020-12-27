@@ -6,7 +6,7 @@ expressed as a combination of `years`, `days`, `hours`, `minutes` and `seconds`.
 
 It is much easier to understand with an example:
 
-```
+```python
 format_duration(62)    # returns "1 minute and 2 seconds"
 format_duration(3662)  # returns "1 hour, 1 minute and 2 seconds"
 ```

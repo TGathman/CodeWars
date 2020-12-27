@@ -12,6 +12,6 @@ Note: the input will always be valid.
 
 For example:
 
-```
+```python
 5, 10, 2  -->  17
 ```

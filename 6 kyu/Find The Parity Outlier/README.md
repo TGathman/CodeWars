@@ -4,7 +4,7 @@ integer `N`. Write a method that takes the array as an argument and returns this
 
 ### Examples
 
-```
+```python
 [2, 4, 0, 100, 4, 11, 2602, 36]
 Should return: 11 (the only odd number)
 

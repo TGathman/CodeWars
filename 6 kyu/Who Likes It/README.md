@@ -4,7 +4,7 @@ We want to create the text that should be displayed next to such an item.
 Implement a function `likes :: [String] -> String`, which must take in input array, containing the names of people who 
 like an item. It must return the display text as shown in the examples:
 
-```
+```python
 likes([]) # must be "no one likes this"
 likes(["Peter"]) # must be "Peter likes this"
 likes(["Jacob", "Alex"]) # must be "Jacob and Alex like this"

@@ -7,7 +7,7 @@ trying to pronounce it :(
 So, if we are to start our Tribonacci sequence with `[1, 1, 1]` as a starting input (AKA signature), we have this 
 sequence:
 
-```
+```python
 [1, 1 ,1, 3, 5, 9, 17, 31, ...]
 ```
 
@@ -15,7 +15,7 @@ But what if we started with `[0, 0, 1]` as a signature? As starting with `[0, 1]
 the common Fibonacci sequence by once place, you may be tempted to think that we would get the same sequence shifted 
 by 2 places, but that is not the case and we would get:
 
-```
+```python
 [0, 0, 1, 1, 2, 4, 7, 13, 24, ...]
 ```
 

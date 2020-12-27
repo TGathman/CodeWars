@@ -2,7 +2,7 @@ In this Kata, we are going to reverse a string while maintaining the spaces (if 
 
 For example:
 
-```
+```python
 solve("our code") = "edo cruo"
 -- Normal reversal without spaces is "edocruo". 
 -- However, there is a space at index 3, so the string becomes "edo cruo"```

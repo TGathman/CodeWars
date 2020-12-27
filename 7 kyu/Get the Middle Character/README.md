@@ -2,7 +2,7 @@ You are going to be given a word. Your job is to return the middle character of 
 
 ### Examples:
 
-```
+```python
 Kata.getMiddle("test") should return "es"
 
 Kata.getMiddle("testing") should return "t"

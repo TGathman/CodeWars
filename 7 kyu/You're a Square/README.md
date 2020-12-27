@@ -17,7 +17,7 @@ it is the product of some integer with itself._
 The tests will _always_ use some integral number, so don't worry about that in dynamic typed languages.
 
 ### Examples
-```
+```python
 -1  =>  false
  0  =>  true
  3  =>  false

@@ -18,7 +18,7 @@ Your task is to implement a function that would take the morse code as input and
 
 For example:
 
-```
+```python
 decodeMorse('.... . -.--   .--- ..- -.. .')
 #should return "HEY JUDE"
 ```

@@ -2,7 +2,7 @@ Check to see if a string has the same amount of 'x's and 'o's. The method must r
 
 Examples input/output:
 
-```
+```python
 XO("ooxx") => true
 XO("xooxx") => false
 XO("ooxXm") => true

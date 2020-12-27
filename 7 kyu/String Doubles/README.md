@@ -4,7 +4,7 @@ For example:
 
 `doubles('abbcccdddda') = 'aca'`, because, from left to right:
 
-```
+```python
 a) There is only one 'a' on the left hand side, so it stays.
 b) The 2 b's disappear because we are removing double characters that are adjacent. 
 c) Of the 3 c's, we remove two. We are only removing doubles. 
