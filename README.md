@@ -48,7 +48,7 @@ Kata are rated as [follows](https://www.codewars.com/topics/kata-ranking):
 All solutions have successfully passed all tests. Expand each section to an index of completed solutions (links to Codewars).
 
 <details>
-<summary>Kyu 8</summary>
+<summary>Kyu 8 (21 Solved)</summary>
 
 * [Area or Perimeter](https://www.codewars.com/kata/5ab6538b379d20ad880000ab)
 * [Can we divide it?](https://www.codewars.com/kata/5a2b703dc5e2845c0900005a)
@@ -75,7 +75,7 @@ All solutions have successfully passed all tests. Expand each section to an inde
 </details>
 
 <details>
-<summary>Kyu 7</summary>
+<summary>Kyu 7 (25 Solved)</summary>
 
 * [Beginner Series #3 Sum of Numbers](https://www.codewars.com/kata/55f2b110f61eb01779000053)
 * [Complementary DNA](https://www.codewars.com/kata/554e4a2f232cdd87d9000038)
@@ -105,7 +105,7 @@ All solutions have successfully passed all tests. Expand each section to an inde
 </details>
 
 <details>
-<summary>Kyu 6</summary>
+<summary>Kyu 6 (22 Solved)</summary>
 
 * [Array.diff](https://www.codewars.com/kata/523f5d21c841566fde000009)
 * [Bit Counting](https://www.codewars.com/kata/526571aae218b8ee490006f4)
@@ -133,7 +133,7 @@ All solutions have successfully passed all tests. Expand each section to an inde
 </details>
 
 <details>
-<summary>Kyu 5</summary>
+<summary>Kyu 5 (5 Solved)</summary>
 
 * [Human Readable Time](https://www.codewars.com/kata/52685f7382004e774f0001f7)
 * [Largest product in a series](https://www.codewars.com/kata/529872bdd0f550a06b00026e)
@@ -144,7 +144,7 @@ All solutions have successfully passed all tests. Expand each section to an inde
 </details>
 
 <details>
-<summary>Kyu 4</summary>
+<summary>Kyu 4 (2 Solved)</summary>
 
 * [Human readable duration format](https://www.codewars.com/kata/52742f58faf5485cae000b9a)
 * [Snail](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1)
